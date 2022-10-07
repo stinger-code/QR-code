@@ -34,7 +34,7 @@ body {
   height: 40vh;
   width: 100%;
   border-radius: 1vh;
-  background-image: url(../images/image-qr-code.png);
+  background-image: url(../qr-code-component-main/images/image-qr-code.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
