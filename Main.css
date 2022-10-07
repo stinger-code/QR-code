@@ -30,7 +30,7 @@ body {
 }
 
 .card-scanarea {
-  background-color: black;
+  background-color: rgb(212, 212, 212);
   height: 40vh;
   width: 100%;
   border-radius: 1vh;
